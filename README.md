@@ -1,4 +1,4 @@
-# cmp-latex-symbols
+# cmp-latex-symbols (*overengineered* fork xD) 
 
 Add latex symbol support for [nvim-cmp](https://github.com/hrsh7th/nvim-cmp).
 
@@ -12,7 +12,7 @@ Using Packer:
 use({
   "hrsh7th/nvim-cmp",
   requires = {
-    { "kdheepak/cmp-latex-symbols" },
+    { "uncomfyhalomacro/cmp-latex-symbols", run = "cargo run --release" },
   },
   sources = {
     { name = "latex_symbols" },
