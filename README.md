@@ -1,4 +1,4 @@
-# cmp-latex-symbols (*overengineered* fork xD) 
+# cmp-latex-symbols (*overengineered* fork xD which means more symbols uwu) 
 
 Add latex symbol support for [nvim-cmp](https://github.com/hrsh7th/nvim-cmp).
 
