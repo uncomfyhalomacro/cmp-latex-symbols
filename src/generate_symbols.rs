@@ -90,5 +90,5 @@ pub fn generate_symbols() {
             }
         }
     }
-    write!(output_file, "}}").unwrap();
+    write!(output_file, "}}\nreturn symbols").unwrap();
 }
